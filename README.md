@@ -1,7 +1,7 @@
 # Hi there, I'm Giovanni 👋
 
 ## About Me
-- 🌱 I'm a second-year student at UniMore.**.
+- 🌱 I'm a second-year student at **UniMore**.
 - 👯 I’m looking to collaborate on **open source projects**.
 - 💬 Ask me about **JavaScript**, and **Web Development**.
 - 📫 How to reach me: [giovannidistefano091104@gmail.com](mailto:giovannidistefano091104@gmail.com)
