@@ -15,7 +15,7 @@
 ![Giovanni's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gi0vi04&show_icons=true&theme=react)
 
 ## Connect with Me
-- [LinkedIn]([https://www.linkedin.com/in/giovanni](https://www.linkedin.com/in/giovanni-distefano-b49246280/))
-- [Instagram]([https://www.linkedin.com/in/giovanni](https://www.instagram.com/giovanni__distefano04/))
+- [LinkedIn](https://www.linkedin.com/in/giovanni-distefano-b49246280/)
+- [Instagram](https://www.instagram.com/giovanni__distefano04/)
 
 Thank you for visiting my profile!
